@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "job_portal_app",
-    "slug": "job_portal_app"
+    "slug": "job_portal_app",
+    "extra": {
+      "eas": {
+        "projectId": "9756be98-492a-4e67-9c86-5e19159149aa"
+      }
+    },
+    "android": {
+      "package": "com.oyekhush.job_portal_app"
+    }
   }
 }
